@@ -1,0 +1,24 @@
+{
+  "name": "blog-doc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frank-young/blog-doc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frank-young/blog-doc/issues"
+  },
+  "homepage": "https://github.com/frank-young/blog-doc#readme",
+  "devDependencies": {
+    "vuepress": "^0.8.4"
+  }
+}
